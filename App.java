@@ -4,7 +4,7 @@ public class App {
 	
 		for (int i = 1; i < 11; i++) {
 		
-			System.out.println("Linje "+i);
+			System.out.println("Linje nr. "+i);
 		
 		}
 	
